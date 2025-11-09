@@ -2,7 +2,7 @@
 
 📍 Pune, India 411021  
 ✉️ kirandeshmukh1495@gmail.com  
- https://www.linkedin.com/in/kiranbdeshmukh/
+🔗 https://www.linkedin.com/in/kiranbdeshmukh/
 
 Result-oriented software engineer with 8 years of professional experience building performant, maintainable frontend applications. I translate complex technical requirements for non-technical stakeholders, mentor teammates, and deliver pragmatic solutions on schedule. Highly organized, self-motivated, and grounded in computer science fundamentals.
 
